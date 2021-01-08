@@ -4,4 +4,5 @@
 * [Competitive Programming](competitive-programming.md)
 * [Kubernetes Stuff](kubernetes-stuff.md)
 * [Life Gyaan](life-gyaan.md)
+* [Tech Articles](tech-articles.md)
 
