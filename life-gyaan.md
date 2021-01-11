@@ -1,3 +1,9 @@
+---
+description: >-
+  This page is a collection of all articles that I found interesting and
+  beneficial to personal development.
+---
+
 # Life Hacks
 
 
