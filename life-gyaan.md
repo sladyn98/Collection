@@ -1,4 +1,4 @@
-# Life Gyaan
+# Life Hacks
 
 
 
