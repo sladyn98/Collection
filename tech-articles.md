@@ -20,6 +20,8 @@
 * [https://turkogluc.com/java-concurrency-basics-of-threads/](https://turkogluc.com/java-concurrency-basics-of-threads/) : Java threads in depth explanation.
 * [https://gumroad.com/l/css-zine/INDIAZINES](https://gumroad.com/l/css-zine/INDIAZINES) : CSS Zines
 * [http://pages.cs.wisc.edu/~remzi/OSTEP/](http://pages.cs.wisc.edu/~remzi/OSTEP/) : Great site for learning operating systems \(I am using it currently\)
+* [https://hakibenita.com/sql-anomaly-detection](https://hakibenita.com/sql-anomaly-detection) : SQL Anomaly detection
+* [https://unstructed.tech/2021/01/11/your-legacy-database-is-outgrowing-itself/](https://unstructed.tech/2021/01/11/your-legacy-database-is-outgrowing-itself/) : Scaling databases
 
 ## Github Repos
 
