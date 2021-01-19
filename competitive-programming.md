@@ -16,5 +16,7 @@ description: >-
 
 [https://interviewing.io/faq/](https://interviewing.io/faq/): Interviewing at its best
 
+[https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL\_z\_8CaSLPWekqhdCPmFohncHwz8TY2Go&ab\_channel=AdityaVerma](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&ab_channel=AdityaVerma) : Best DP tutorial on the internet
+
 
 

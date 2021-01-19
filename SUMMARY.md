@@ -9,4 +9,5 @@
 * [Great Personal Websites](great-personal-websites.md)
 * [Core CS Stuff and Books](core-cs-stuff.md)
 * [System Design](system-design.md)
+* [Dynamic Programming Notes](dynamic-programming-notes.md)
 
